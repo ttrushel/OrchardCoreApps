@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "Hash": "gd5+uc7pNlk1jFz6JOQ6OqOsfyJ/tbB3L2vE2DfML5I=",
+  "Source": "OC.Web",
+  "BasePath": "_content/OC.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ttrushel\\Desktop\\MovieTheaterTech\\OC.Web\\Movies\\Movies.csproj",
+      "Version": 2,
+      "Source": "Movies",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OC.Web\\wwwroot",
+      "Source": "OC.Web",
+      "ContentRoot": "C:\\Users\\ttrushel\\Desktop\\MovieTheaterTech\\OC.Web\\OC.Web\\wwwroot\\",
+      "BasePath": "_content/OC.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ttrushel\\Desktop\\MovieTheaterTech\\OC.Web\\OC.Web\\wwwroot\\.placeholder",
+      "SourceId": "OC.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ttrushel\\Desktop\\MovieTheaterTech\\OC.Web\\OC.Web\\wwwroot\\",
+      "BasePath": "_content/OC.Web",
+      "RelativePath": ".placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.placeholder"
+    }
+  ]
+}
