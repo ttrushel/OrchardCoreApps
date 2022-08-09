@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "VBHWCt1P2GVALV14GNC1ColZ94aFJzNnA28ZIrx337o=",
+  "Source": "MovieTheaterTech",
+  "BasePath": "_content/MovieTheaterTech",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ttrushel\\Desktop\\MovieTheaterTech\\Employees\\Employees.csproj",
+      "Version": 2,
+      "Source": "Employees",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "C:\\Users\\ttrushel\\Desktop\\MovieTheaterTech\\Orders\\Orders.csproj",
+      "Version": 2,
+      "Source": "Orders",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "C:\\Users\\ttrushel\\Desktop\\MovieTheaterTech\\Showings\\Showings.csproj",
+      "Version": 2,
+      "Source": "Showings",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieTheaterTech\\wwwroot",
+      "Source": "MovieTheaterTech",
+      "ContentRoot": "C:\\Users\\ttrushel\\Desktop\\MovieTheaterTech\\MovieTheaterTech\\wwwroot\\",
+      "BasePath": "_content/MovieTheaterTech",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ttrushel\\Desktop\\MovieTheaterTech\\MovieTheaterTech\\wwwroot\\.placeholder",
+      "SourceId": "MovieTheaterTech",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ttrushel\\Desktop\\MovieTheaterTech\\MovieTheaterTech\\wwwroot\\",
+      "BasePath": "_content/MovieTheaterTech",
+      "RelativePath": ".placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.placeholder"
+    }
+  ]
+}

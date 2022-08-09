@@ -1,0 +1,17 @@
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\bin\Debug\net6.0\Showings.deps.json
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\bin\Debug\net6.0\Showings.dll
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\bin\Debug\net6.0\Showings.pdb
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\Showings.csproj.AssemblyReference.cache
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\Showings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\Showings.AssemblyInfoInputs.cache
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\Showings.AssemblyInfo.cs
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\Showings.csproj.CoreCompileInputs.cache
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\Showings.RazorAssemblyInfo.cache
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\Showings.RazorAssemblyInfo.cs
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\scopedcss\bundle\Showings.styles.css
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\Showings.dll
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\refint\Showings.dll
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\Showings.pdb
+C:\Users\ttrushel\Desktop\MovieTheaterTech\Showings\obj\Debug\net6.0\ref\Showings.dll
